@@ -1,5 +1,4 @@
-# ngConnect
-API for integrating 3D Views with Websites and Mobile Applications
+# ngConnect API for integrating 3D Views with Websites and Mobile Applications
 
 Follow these steps for integration on PLP (Product Listing Page)
 1.  Copy the JavaScript from 'PLP.php' page on to your website’s product listing frontpage. Pass the values  (SKU_ID - (Item_id) and 1 – (Flag).
